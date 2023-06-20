@@ -20,4 +20,4 @@ Funcionalidade 3: poder apagar as tarefas
 
 __
 
-<h4 align="center"> Alunos🧑‍🎓: Nelson Eduardo Lemos de Melo Filho (0153385)
+<h4 align="center"> Aluno🧑‍🎓: Nelson Eduardo Lemos de Melo Filho (0153385)
