@@ -1,4 +1,4 @@
-<h1 align="center"> CHAMADOS </h1>
+<h1 align="center"> PROJETO </h1>
 
 Projeto construido para a nota final de Mobile Coding, o projeto tem como objetivo mostrar as capacidades do aluno
 
